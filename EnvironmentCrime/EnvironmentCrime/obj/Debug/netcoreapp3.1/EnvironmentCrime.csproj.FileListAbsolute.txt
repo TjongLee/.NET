@@ -1,0 +1,135 @@
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.exe
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.deps.json
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.runtimeconfig.json
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.runtimeconfig.dev.json
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.dll
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.pdb
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.Views.dll
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.Views.pdb
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csprojAssemblyReference.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.AssemblyInfoInputs.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.AssemblyInfo.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.CoreCompileInputs.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorAssemblyInfo.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorAssemblyInfo.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\staticwebassets\EnvironmentCrime.StaticWebAssets.Manifest.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\staticwebassets\EnvironmentCrime.StaticWebAssets.xml
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnvironmentCrime.styles.css
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.TagHelpers.input.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.TagHelpers.output.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorCoreGenerate.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorTargetAssemblyInfo.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorTargetAssemblyInfo.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.Views.pdb
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.dll
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.pdb
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.genruntimeconfig.cache
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.CopyComplete
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Contact.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\FAQ.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Services.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Thanks.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Validate.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Coordinator.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\investigator\CrimeInvestigator.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\investigator\Investigator.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\manager\Manager.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\manager\CrimeManager.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\CrimeCoordinator.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\ReportCrime.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Thanks.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Validate.cshtml.g.cs
+C:\Users\drtec\source\repos\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShowOneErrand\Default.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.exe
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.deps.json
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.runtimeconfig.json
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.runtimeconfig.dev.json
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.pdb
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.Views.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.Views.pdb
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.AssemblyInfoInputs.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.AssemblyInfo.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.CoreCompileInputs.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorAssemblyInfo.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorAssemblyInfo.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\staticwebassets\EnvironmentCrime.StaticWebAssets.Manifest.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\staticwebassets\EnvironmentCrime.StaticWebAssets.xml
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\scopedcss\bundle\EnvironmentCrime.styles.css
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.TagHelpers.input.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.TagHelpers.output.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorCoreGenerate.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Contact.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\FAQ.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Services.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Thanks.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\citizen\Validate.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Coordinator.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\CrimeCoordinator.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\ReportCrime.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Thanks.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\coordinator\Validate.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\investigator\CrimeInvestigator.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\investigator\Investigator.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\manager\CrimeManager.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\manager\Manager.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShowOneErrand\Default.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorTargetAssemblyInfo.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.RazorTargetAssemblyInfo.cs
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.Views.pdb
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.pdb
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.genruntimeconfig.cache
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.CopyComplete
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.AssemblyReference.cache
