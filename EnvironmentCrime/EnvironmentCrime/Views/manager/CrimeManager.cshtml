@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "_MainLayout";
+}
+@model IEnumerable<Employee>
+<nav>
+    <ul>
+        <li><a class="reports" asp-controller="Manager" asp-action="Manager">Start(Ärenden)</a></li>
+        <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+    </ul>
+</nav><!-- End Nav -->
+<div id="content">
+    <h2>Detaljer för ärendet</h2>
+    <p class="info">Du är inloggad som avdelningschef</p>
+
+    @await Component.InvokeAsync("ShowOneErrand", ViewBag.ID)
+
+    <section id="bottomColumn">
+        <h3>Redigera ärende</h3>
+        <p>
+            Ange handläggare:
+            <select name="investigator">
+                <option selected="selected">Välj</option>
+                @foreach (Employee employee in Model)
+                {
+                    <option>@employee.EmployeeName</option>
+                }
+            </select>
+        </p>
+        <p><input type="checkbox" name="noAction" value="true" /> Ingen åtgärd: <input type="text" name="reason" value="Ange motivering" /></p>
+        <p><input class="button" type="submit" value="Spara" /></p>
+    </section>
+
+    @*<option value="inv1">Ada Bengtsson</option>
+    <option value="inv2">Bengt Cederström</option>
+    <option value="inv3">Cecilia Danielsson</option>
+    <option value="inv4">David Ekström</option>
+    <option value="inv5">Erik Falkenberg</option>*@

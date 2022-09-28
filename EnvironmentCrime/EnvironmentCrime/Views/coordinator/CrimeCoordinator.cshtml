@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "_MainLayout";
+}
+@model IEnumerable<Department>
+<nav>
+    <ul>
+        <li><a class="reports" asp-controller="Coordinator" asp-action="Coordinator">Start(Ärenden)</a></li>
+        <li><a class="reportAdd" asp-controller="Coordinator" asp-action="ReportCrime">Rapportera brott</a></li>
+        <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+    </ul>
+</nav><!-- End Nav -->
+<div id="content">
+    <h2>Detaljer för ärendet</h2>
+    <p class="info">Du är inloggad som samordnare</p>
+
+    @await Component.InvokeAsync("ShowOneErrand", ViewBag.ID)
+
+    <section id="bottomColumn">
+        <h3>Redigera ärende</h3>
+        <p>
+            Ange enhet:
+            <select name="department">
+                <option selected="selected">Välj</option>
+                @foreach (Department department in Model)
+                {
+                    <option>@department.DepartmentName</option>
+                }
+            </select>
+        </p>
+        <p><input class="button" type="submit" value="Spara" /></p>
+    </section>
+
+    @*<option value="unit0">Småstads Kommun</option>
+    <option value="unit1">Tekniska Avloppshantering</option>
+    <option value="unit2">Klimat och Energi</option>
+    <option value="unit3">Miljö och Hälsoskydd</option>
+    <option value="unit4">Natur och Skogsvård</option>
+    <option value="unit5">Renhållning och Avfall</option>*@
