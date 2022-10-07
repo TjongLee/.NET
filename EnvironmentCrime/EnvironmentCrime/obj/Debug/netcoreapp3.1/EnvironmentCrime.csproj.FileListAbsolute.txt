@@ -133,6 +133,7 @@ C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\Environm
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\bin\Debug\netcoreapp3.1\EnvironmentCrime.exe
@@ -218,3 +219,5 @@ C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\Environmen
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.dll
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.pdb
 C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\obj\Debug\netcoreapp3.1\EnvironmentCrime.genruntimeconfig.cache
+=======
+>>>>>>> master

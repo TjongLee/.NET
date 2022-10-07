@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = EnvironmentCrime
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime\EnvironmentCrime\
+=======
+build_property.ProjectDir = C:\Users\Casper Gustavsson\Documents\Programming\UNI\EnvironmentCrime-1\EnvironmentCrime\EnvironmentCrime\
+>>>>>>> master

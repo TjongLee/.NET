@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
         "packagesPath": "C:\\Users\\Casper Gustavsson\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\obj\\",
+=======
+    "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
+        "projectName": "EnvironmentCrime",
+        "projectPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
+        "packagesPath": "C:\\Users\\Casper Gustavsson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\obj\\",
+>>>>>>> master
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casper Gustavsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
