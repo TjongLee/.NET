@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qwx9mVwp1X9R/3chSYCUCV3L7oyUy7XRwbmN6SS0U6iEhILJFbDMoglJi1rlKmtg2WZ6Q4mygzCV+m36Ot7/WA==",
+  "dgSpecHash": "dc9CHuM56KVyaImKYh+a75riqgf2N7CNUADlu0vfNwcyNA6CG4yuT2SG6BI/f9zXay+NqmiuNvwI3jV2OMMsWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
+  "projectFilePath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Casper Gustavsson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Casper Gustavsson\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -5042,11 +5042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
+      "projectUniqueName": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
       "projectName": "EnvironmentCrime",
-      "projectPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
+      "projectPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\EnvironmentCrime.csproj",
       "packagesPath": "C:\\Users\\Casper Gustavsson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime-1\\EnvironmentCrime\\EnvironmentCrime\\obj\\",
+      "outputPath": "C:\\Users\\Casper Gustavsson\\Documents\\Programming\\UNI\\EnvironmentCrime\\EnvironmentCrime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper Gustavsson\\AppData\\Roaming\\NuGet\\NuGet.Config",

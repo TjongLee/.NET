@@ -35,7 +35,7 @@ namespace EnvironmentCrime.Models
             if(errand.ErrandId == 0) // this means its a new errand
             {
                 Sequence seq = context.sequences.FirstOrDefault();
-                errand.RefNumber = "2022-45" + seq.CurrentValue.ToString(); // sets reference number using the sequence
+                errand.RefNumber = "2022-45-" + seq.CurrentValue.ToString(); // sets reference number using the sequence
                 errand.StatusId = "S_A"; // hardcoded status
                 context.errands.Add(errand); 
                 seq.CurrentValue += 1; // incraments the sequence
